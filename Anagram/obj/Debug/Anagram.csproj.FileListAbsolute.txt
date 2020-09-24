@@ -1,0 +1,13 @@
+E:\Anagram\Anagram\bin\Debug\Anagram.exe.config
+E:\Anagram\Anagram\bin\Debug\Anagram.exe
+E:\Anagram\Anagram\bin\Debug\Anagram.pdb
+E:\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+E:\Anagram\Anagram\obj\Debug\Anagram.exe
+E:\Anagram\Anagram\obj\Debug\Anagram.pdb
+E:\BackUp\Anagram\Anagram\bin\Debug\Anagram.exe.config
+E:\BackUp\Anagram\Anagram\bin\Debug\Anagram.exe
+E:\BackUp\Anagram\Anagram\bin\Debug\Anagram.pdb
+E:\BackUp\Anagram\Anagram\obj\Debug\Anagram.csprojAssemblyReference.cache
+E:\BackUp\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+E:\BackUp\Anagram\Anagram\obj\Debug\Anagram.exe
+E:\BackUp\Anagram\Anagram\obj\Debug\Anagram.pdb
